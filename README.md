@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarenceatim&label=Profile%20views&color=0e75b6&style=flat" alt="clarenceatim" /> </p>
 
-- 🔭 I’m currently working on [To-do-list](https://github.com/ClarenceAtim/ToDoList)
+- 🔭 I’m currently working on [Bookstore](https://github.com/ClarenceAtim/bookstore)
 
 - 👨‍💻 All of my projects are available at [https://clarenceatim.github.io/Portfolio/](https://clarenceatim.github.io/Portfolio/)
 
